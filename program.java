@@ -15,12 +15,16 @@
  *  lines in our programs and encourage you to do the same.
  *
  ******************************************************************************/
-
+//mwmam
 public class HelloWorld {
 
     public static void main(String[] args) {
+		//Zmiana
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello cruel World");
+		  System.out.println("Godbay World");
     }
+	
+	//Zmiana
 
 }
